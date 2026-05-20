@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+build/
+.env.local
+.env.production.localnode_modules/
+.next/
+node_modules/
+.next/
